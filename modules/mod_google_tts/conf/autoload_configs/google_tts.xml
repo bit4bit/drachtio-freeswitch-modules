@@ -1,0 +1,5 @@
+<configuration name="google_tts.conf" description="Google Text-to-Speech Configuration">
+  <settings>
+    <param name="google-application-credentials-json-file" value="/tmp/gcs_service_account_key.json"/>
+  </settings>
+</configuration>
